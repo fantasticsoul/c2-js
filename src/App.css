@@ -1,0 +1,14 @@
+.myTitle {
+  text-align: center;
+}
+
+.cc_openMenuBtn {
+  position: fixed;
+  top: 4px;
+  right: 4px;
+  z-index: 8888;
+}
+
+.cc_homeContent {
+  padding: 60px;
+}

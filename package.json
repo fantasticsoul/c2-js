@@ -1,0 +1,37 @@
+{
+  "name": "concent-guide",
+  "version": "1.0.0",
+  "description": "show Concent's powerful ability",
+  "keywords": [
+    "concent",
+    "react"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "bulma": "0.8.0",
+    "concent": "1.5.175",
+    "concent-plugin-loading": "1.2.18",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-router": "5.1.2",
+    "react-router-concent": "1.2.11",
+    "react-router-dom": "5.1.2",
+    "react-scripts": "3.0.1",
+    "reactbulma": "3.0.4"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

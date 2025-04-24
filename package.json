@@ -13,7 +13,7 @@
     "concent-plugin-loading": "1.2.18",
     "react": "16.12.0",
     "react-dom": "16.12.0",
-    "react-router": "5.1.2",
+    "react-router": "7.5.2",
     "react-router-concent": "1.2.11",
     "react-router-dom": "5.1.2",
     "react-scripts": "3.0.1",
